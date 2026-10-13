@@ -1,0 +1,10 @@
+{
+  "name": "AgriSaarthi AI",
+  "description": "Your Smart Farming Companion - Mobile-first agriculture assistance with crop guides, Gemini AI advisory, voice notes, and offline farming tips in English and Tamil.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
